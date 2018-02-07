@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7091" started-at="2018-02-07T19:54:10Z" finished-at="2018-02-07T19:54:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7091" started-at="2018-02-07T19:54:10Z" finished-at="2018-02-07T19:54:17Z">
+      <class name="com.gmail.GmailLogin">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:com.gmail.GmailLogin@cecf639]" name="startBrowser" is-config="true" duration-ms="1775" started-at="2018-02-07T14:54:10Z" finished-at="2018-02-07T14:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="enterUserName()[pri:0, instance:com.gmail.GmailLogin@cecf639]" name="enterUserName" duration-ms="644" started-at="2018-02-07T14:54:11Z" finished-at="2018-02-07T14:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUserName -->
+        <test-method status="PASS" signature="enterPassWord()[pri:0, instance:com.gmail.GmailLogin@cecf639]" name="enterPassWord" duration-ms="4105" started-at="2018-02-07T14:54:12Z" finished-at="2018-02-07T14:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassWord -->
+        <test-method status="PASS" signature="verifyLoginTitle()[pri:0, instance:com.gmail.GmailLogin@cecf639]" name="verifyLoginTitle" duration-ms="166" started-at="2018-02-07T14:54:16Z" finished-at="2018-02-07T14:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.gmail.GmailLogin@cecf639]" name="closeBrowser" is-config="true" duration-ms="380" started-at="2018-02-07T14:54:16Z" finished-at="2018-02-07T14:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.gmail.GmailLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
